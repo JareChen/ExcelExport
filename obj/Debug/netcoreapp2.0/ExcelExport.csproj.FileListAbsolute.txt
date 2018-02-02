@@ -1,0 +1,10 @@
+y:\Jare\Documents\SouceCode\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.csproj.CoreCompileInputs.cache
+y:\Jare\Documents\SouceCode\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.AssemblyInfoInputs.cache
+y:\Jare\Documents\SouceCode\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.AssemblyInfo.cs
+y:\Jare\Documents\SouceCode\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.deps.json
+y:\Jare\Documents\SouceCode\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.runtimeconfig.json
+y:\Jare\Documents\SouceCode\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.runtimeconfig.dev.json
+y:\Jare\Documents\SouceCode\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.dll
+y:\Jare\Documents\SouceCode\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.pdb
+y:\Jare\Documents\SouceCode\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.dll
+y:\Jare\Documents\SouceCode\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.pdb
