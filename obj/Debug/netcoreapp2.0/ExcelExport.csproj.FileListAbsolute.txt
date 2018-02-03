@@ -8,3 +8,13 @@ y:\Jare\Documents\SouceCode\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.dll
 y:\Jare\Documents\SouceCode\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.pdb
 y:\Jare\Documents\SouceCode\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.dll
 y:\Jare\Documents\SouceCode\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.pdb
+c:\Users\陈浩\Documents\GitHub\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.deps.json
+c:\Users\陈浩\Documents\GitHub\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.runtimeconfig.json
+c:\Users\陈浩\Documents\GitHub\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.runtimeconfig.dev.json
+c:\Users\陈浩\Documents\GitHub\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.dll
+c:\Users\陈浩\Documents\GitHub\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.pdb
+c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.csproj.CoreCompileInputs.cache
+c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.AssemblyInfoInputs.cache
+c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.AssemblyInfo.cs
+c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.dll
+c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.pdb

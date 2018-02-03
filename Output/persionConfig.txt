@@ -1,5 +1,0 @@
-#		c	s		
-#	id	姓名	性别	年龄	
-#	int	string	int	int	
-#	Id	Name	Sex	Age	
-	1	牛	1	20	
