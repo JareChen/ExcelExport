@@ -2185,10 +2185,11 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "XS6/iA4RbG4AB8Fbf6Zn0LajDwz17484cgf6ys8Qlh9shC0LXu3eQ0EEbZRwc+nqAcW7MWnrWsNjOs6a7ctWMA==",
+      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2222,10 +2223,12 @@
       ]
     },
     "System.Data.Common/4.3.0": {
-      "sha512": "Vovm2LmK8he6uxpj1EWzr8972SCeBrJCX3lzspM6H6XDUeHT1ZQ6IFAWmqL0oZ8mhtp6OyyWJ4peZu8GLYbNXA==",
+      "sha512": "lm6E3T5u7BOuEH0u18JpbJHxBfOJPuCyl4Kg1RH10ktYLp5uEEE1xKrHW56/We4SnZpGAuCc9N0MJpSDhTHZGQ==",
       "type": "package",
       "path": "system.data.common/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4213,10 +4216,11 @@
       ]
     },
     "System.Threading.Thread/4.3.0": {
-      "sha512": "IvKyicFP/SQePmVsAg6o9n1nD6wLd7gWRw+SHrzpzjThbtypst+rcbzGRREeOLMOuw3gShOMToB+X8u8+R0PTA==",
+      "sha512": "OHmbT+Zz065NKII/ZHcH9XO1dEuLGI1L2k7uYss+9C1jLxTC9kTZZuzUOyXHayRk+dft9CiDf3I/QZ0t8JKyBQ==",
       "type": "package",
       "path": "system.threading.thread/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4251,10 +4255,11 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "LiRNZrSYMFyfK0I5jdrmtHPWmI6HBM8ddvoR8Z/2dx6w+lhY/KIgEQjkC/QqufUVIZDVoHI6hKRRnyn62Mdghg==",
+      "sha512": "k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4359,10 +4364,11 @@
       ]
     },
     "System.Xml.XmlDocument/4.3.0": {
-      "sha512": "Yut3QweOdSTx2Un9pbAl7Ce7nsclkQDp6R24Lyxbn0fmLyfS/LrUxY7vJc7LU+zSkVA2IzfBiH5q1zwNU+EbwA==",
+      "sha512": "lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "type": "package",
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4476,24 +4482,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\陈浩\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\陈浩\\Documents\\GitHub\\ExcelExport\\ExcelExport.csproj",
+      "projectUniqueName": "d:\\Repos\\ExcelExport\\ExcelExport.csproj",
       "projectName": "ExcelExport",
-      "projectPath": "c:\\Users\\陈浩\\Documents\\GitHub\\ExcelExport\\ExcelExport.csproj",
-      "packagesPath": "C:\\Users\\陈浩\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\陈浩\\Documents\\GitHub\\ExcelExport\\obj\\",
+      "projectPath": "d:\\Repos\\ExcelExport\\ExcelExport.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "d:\\Repos\\ExcelExport\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\陈浩\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -4516,14 +4525,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
-          },
           "EPPlus.Core": {
             "target": "Package",
-            "version": "1.5.4"
+            "version": "[1.5.4, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [

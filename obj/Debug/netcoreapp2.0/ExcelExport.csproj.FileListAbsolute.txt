@@ -18,3 +18,14 @@ c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport
 c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.AssemblyInfo.cs
 c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.dll
 c:\Users\陈浩\Documents\GitHub\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.pdb
+D:\Repos\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.deps.json
+D:\Repos\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.runtimeconfig.json
+D:\Repos\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.runtimeconfig.dev.json
+d:\Repos\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.dll
+d:\Repos\ExcelExport\bin\Debug\netcoreapp2.0\ExcelExport.pdb
+d:\Repos\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.csprojAssemblyReference.cache
+d:\Repos\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.csproj.CoreCompileInputs.cache
+d:\Repos\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.AssemblyInfoInputs.cache
+d:\Repos\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.AssemblyInfo.cs
+d:\Repos\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.dll
+d:\Repos\ExcelExport\obj\Debug\netcoreapp2.0\ExcelExport.pdb
